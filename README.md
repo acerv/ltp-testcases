@@ -1,5 +1,9 @@
 # LTP testcases
 
+Dependences:
+
+- [ltp-core](https://github.com/acerv/ltp-core)
+
 Supported testcases:
 
 - cve
