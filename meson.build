@@ -10,6 +10,7 @@ project(
         'c_std=gnu99',
         'warning_level=2',
         'buildtype=debugoptimized',
+        'prefix=/opt/ltp/testcases/bin',
     ],
     meson_version: '>=1.2.3'
 )
